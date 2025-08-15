@@ -1,0 +1,42 @@
+body{
+    background-color: #f0f4f8;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 80vh;
+}
+.profilecard{
+    background-color: #ffffff;
+    text-align: center;
+    border-radius: 20px;
+    padding: 30px;
+    width: 350px;
+    box-shadow: 5px 5px 10px rgba(red, green, blue, alpha);
+}
+.name{
+    font-family:Georgia,  Times, serif;
+    color:#2c3e50;
+    font-size: 25px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+.bio{
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 15px;
+    color: #34495e;
+    line-height: 1.5;
+    margin-bottom: 14px;
+    word-spacing: 3px;
+}
+.quote{
+    font-style: italic;
+    font-size: 13px;
+    color:#7f8c8d;
+    text-align: right;
+    text-decoration: underline;
+    letter-spacing: 1px;
+
+}
